@@ -1,5 +1,9 @@
 /*drop database Bank*/
 create database Bank
+
+
+
+
 --use Bank
 ----------------------------------------------------------------------------------
 --create 9 tables without Foreign Key
