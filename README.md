@@ -1,6 +1,6 @@
 # query-to-github
 * ## Project Title: 
-   - This project is named as 'query-to github'.
+   - This project is named as 'Bank_Customer'.
 * ## Project Description:
    - The project is aiming to write sql queries in pgAdmin to create the database and tables, then all the queries in the project will be hosted the github.
    - As for the database bank, it includes designing the database, tables, columns and collecting all the information for the customer of bank. Then we can use these information to analyze the consumption of customer and forecast what type of financial products are more likely to be sold better.
