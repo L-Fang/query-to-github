@@ -1,3 +1,4 @@
+
 ---------------------------------------------------------------------------------------
 --In this file, three views are created to use this database following with a 'select' query to check if we can get the correct result
 ---------------------------------------------------------------------------------------
