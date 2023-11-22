@@ -1,4 +1,3 @@
-
 /* In this file, two main tasks are completed 
 including creating the database Bank with 10 tables connected by primary keys and foreign keys 
 and inserting values for each table*/
