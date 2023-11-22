@@ -11,4 +11,4 @@
 * ## How to use this project:
    - There are two sql files in this project right now.
    - One is Bank_Customer_Info.sql that is to create the database and tables and then insert values for each table. This work will let the database be usable.
-   - The another one is Bank_Customer_View.sql that is containing some queries to create views and queries for us to use the database.
+   - The another one is Bank_Customer_View.sql that is containing some queries to create views and select queries for us to use the database.
