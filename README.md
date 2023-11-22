@@ -1,4 +1,4 @@
-# query-to-github
+## query-to-github
 * ## Project Title: 
    - This project is named as 'query-to github'.
 * ## Project Description:
